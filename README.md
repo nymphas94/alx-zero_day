@@ -1,1 +1,1 @@
-my first readme
+coding made easy myfoot
